@@ -1,0 +1,4 @@
+name: Trade
+version: '1.0-SNAPSHOT'
+main: me.revin.trade.Trade
+api-version: '1.20'
